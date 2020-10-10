@@ -31,10 +31,19 @@ body {
 h2 {
   font-family: 'Permanent Marker', cursive;
   font-size: 3rem;
+  color: #010e00;
   opacity: 1;
   text-align: center;
   margin: 0 0 20px;
 }
+
+/* h3 {
+  visibility: hidden;
+}
+
+.ip {
+  visibility: visible;
+} */
 
 .form {
   padding: 30px 40px;
@@ -50,7 +59,7 @@ h2 {
   font-family: 'Permanent Marker', cursive;
   font-size: 1.5rem;
   opacity: 1;
-  color: #777;
+  color: #010e00;
   display: block;
   margin-bottom: 5px;
 }
@@ -95,8 +104,8 @@ h2 {
   font-family: 'Permanent Marker', cursive;
   font-size: 1.5rem;
   cursor: pointer;
-  background-color: #3489db;
-  border: 2px solid #3489db;
+  background-color: #010e00;
+  border: 2px solid #010e00;
   border-radius: 4px;
   color: #fff;
   display: block;
